@@ -1,9 +1,10 @@
 # PI_Modulo6
-Proyector integrador 06/ Machine Learning
+## Proyector integrador 06/ Machine Learning
 
+### Tarea
 Nuestro Data Lead nos ha recomendado que analicemos detalladamente los datos, los preprocesemos debidamente y que diseñemos dos modelos predictivos, uno para el precio y otro para distinguir vehículos de gama alta y de gama baja, utilizando la mediana de los precios como punto de corte. Desean obtener los archivos con las predicciones en formato de texto plano.
 
-## Objetivos
+### Objetivos
 
 Además del análisis detallado de la exploración de los datos, **estas son las dos predicciones posibles que les interesaría analizar**:
 ​
