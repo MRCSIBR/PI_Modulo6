@@ -17,3 +17,8 @@ Además del análisis detallado de la exploración de los datos, **estas son las
 ## Estructura
 
 El proyecto incluye un readme descriptivo, el dataset, y un notebook con las soluciones propuestas
+
+
+## TODO
+
+Implemetar modelo regresion para generar una estimacion de precios
