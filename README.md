@@ -13,3 +13,7 @@ Además del análisis detallado de la exploración de los datos, **estas son las
 
   ​2. Implementar un modelo de regresión con aprendizaje supervisado que permita predecir el precio final de los vehículos, 
       utilizando los datos que se han puesto a su disposición.
+
+## Estructura
+
+El proyecto incluye un readme descriptivo, el dataset, y un notebook con las soluciones propuestas
